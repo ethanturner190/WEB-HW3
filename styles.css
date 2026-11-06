@@ -1,0 +1,42 @@
+body {
+    background-color: #f3f0e8;
+    font-family: Arial, sans-serif;
+    color: black;
+}
+
+.container {
+    background-color: white;
+    width: 80%;
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+.welcome-note {
+    font-style: italic;
+}
+
+.sizes label {
+    margin-right: 10px;
+}
+
+button {
+    background: none;
+    border: none;
+    padding: 0;
+    color: black;
+    text-decoration: underline;
+    font: inherit;
+    cursor: pointer;
+}
+
+a {
+    color: black;
+}
+
+.receipt {
+    border: 1px solid gray;
+    padding: 10px;
+    margin-top: 15px;
+    line-height: 2;
+}
